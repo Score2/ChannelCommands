@@ -1,0 +1,4 @@
+name: ${project.name}
+version: ${project.version}
+main: me.scoretwo.channelcommands.bungee.ChannelCommands
+author: Score2
